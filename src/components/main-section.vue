@@ -110,7 +110,7 @@ import botones from "./social.vue"
       }
 
       .full-height {
-        height: 63.7%;
+        height: 100%;
       }
 
 
